@@ -11,7 +11,7 @@
       "stepId": "0",
       "expression": "",
       "StepType": "MultiplePlaceholders",
-      "stepTitle": "Paso 1: Represente el término de la sucesión",
+      "stepTitle": "Paso 1: Represente el término indicado de la sucesión",
       "displayResult": [
         "B_1 = \\frac{{(3\\placeholder[a]{n}+1)^{2} \\cdot (2\\placeholder[b]{n})}}{{(1+\\placeholder[c]{n}²)\\cdot (-\\placeholder[d]{n}-3)}"
       ],

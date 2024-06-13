@@ -11,7 +11,7 @@
       "stepId": "0",
       "StepType": "MultiplePlaceholders",
       "expression": "",
-      "stepTitle": "Paso 1: Represente el término de la sucesión",
+      "stepTitle": "Paso 1: Represente el término indicado de la sucesión",
       "displayResult": [
         "B_1 = \\frac{{(-1)^\\placeholder[a]{n} \\cdot (\\placeholder[b]{n}^2 - \\placeholder[c]{n})}}{{\\placeholder[d]{n}^2 + 1}}"
       ],
@@ -46,7 +46,7 @@
       "stepId": "1",
       "expression": "",
       "StepType": "SinglePlaceholder",
-      "stepTitle": "Paso 2: Resuelva el primer valor de la sucesión, si no es entero, represéntelo como fracción de la forma $\\frac{a}{b}$",
+      "stepTitle": "Paso 2: Encuentre el primer valor de la sucesión, si no es entero, represéntelo como fracción de la forma $\\frac{a}{b}$",
       "displayResult": ["\\placeholder[a]{}"],
       "KCs": [],
       "values": [],

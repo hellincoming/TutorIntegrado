@@ -58,7 +58,7 @@
       "values": [
         {
           "name": "a",
-          "value": "Verdadero, ya que la raíz cuadrada de 5x5=25"
+          "value": "Verdadero, ya que por definición es un número positivo"
         },
         {
           "name": "a",
@@ -82,7 +82,7 @@
       "matchingError": [],
       "answers": [
         {
-          "answer": ["Falso, pues -5 también es raíz cuadrada de 25"],
+          "answer": ["Verdadero, ya que por definición es un número positivo"],
           "nextStep": "-1"
         }
       ],
