@@ -73,7 +73,7 @@ const jsonMappings: { [key: string]: ExLog } = {
 function App() {
   const router = useRouter();
   const { pid } = router.query;
-  
+
   const exc = pid ? jsonMappings[pid as string] : null;
 
   if (!exc) {
