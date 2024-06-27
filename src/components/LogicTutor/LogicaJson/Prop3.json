@@ -80,7 +80,7 @@
       "hints": [
         {
           "hintId": 0,
-          "hint": "Si ambas condiciones son ciertas el valor de verdad de la proposicion es verdadero"
+          "hint": "Evalua para valores de x>1"
         }
       ],
       "matchingError": [],

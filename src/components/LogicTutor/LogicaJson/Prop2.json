@@ -76,7 +76,7 @@
       "hints": [
         {
           "hintId": 0,
-          "hint": "Si ambas condiciones son ciertas el valor de verdad de la proposicion es verdadero"
+          "hint": "Por definición la raiz cuadrade de un numero debe ser positiva"
         }
       ],
       "matchingError": [],
